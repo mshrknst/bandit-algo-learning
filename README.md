@@ -1,1 +1,1 @@
-# bandit-algo-learning
+# bandit_algorithms_sim
